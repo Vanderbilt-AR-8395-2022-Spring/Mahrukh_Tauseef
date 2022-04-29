@@ -19,7 +19,7 @@ Make sure you have these before running the code.
 
 ## How to run the code?
 
-After installing the dependencies and the entire folder called Head Pose Estimation, run the first seven cells of the notebook AR_Face.
+After installing the dependencies and the entire folder called Head Pose Estimation, run the first seven cells of the notebook AR_Face.ipynb.
 Note: It might take some time for the program to initialize the webcam to capture the video. A separate window is created that shows the view of the webcam with the pointer as well as the buttons. The video capturing can be terminated by pressing the escape button
 
 ## Video
