@@ -23,6 +23,6 @@ After installing the dependencies, run the first seven cells of the notebook.
 Note: It might take some time for the program to initialize the webcam to capture the video. A separate window is created that shows the view of the webcam with the pointer as well as the buttons. The video capturing can be terminated by pressing the escape button
 
 ## Video
-[Add video]
+The demo of the project can be found here: https://github.com/Vanderbilt-AR-8395-2022-Spring/Mahrukh_Tauseef/blob/main/Final_Project.mp4
 
 
